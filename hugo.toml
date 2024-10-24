@@ -1,0 +1,5 @@
+baseURL = 'https://framescart.in/'
+languageCode = 'en-us'
+title = 'Framescart Printing Services'
+[markup.goldmark.renderer]
+   unsafe = true
