@@ -1,0 +1,7 @@
+{{ define "main" }}
+    {{ partial "banner/slider.html" . }}
+    {{ $landing := where .Site.RegularPages "Type" "landing" }}
+    {{ range $landing }}
+        {{ .Content }}
+    {{ end }}
+{{ end }}
