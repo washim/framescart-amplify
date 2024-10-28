@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/pages/collections/</loc>
+    <loc>http://localhost:1313/pages/products/</loc>
     <lastmod>2024-10-27T23:42:44+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
@@ -14,10 +14,10 @@
     <loc>http://localhost:1313/landing/</loc>
     <lastmod>2024-10-27T23:14:36+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/landing/testing/</loc>
+    <loc>http://localhost:1313/landing/services/</loc>
     <lastmod>2024-10-27T23:14:36+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pages/about-me/</loc>
+    <loc>http://localhost:1313/pages/about-us/</loc>
     <lastmod>2024-10-23T02:13:58+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
