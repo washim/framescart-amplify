@@ -1,6 +1,5 @@
 +++
 date = '2024-10-23T02:13:58+05:30'
-draft = true
 title = 'About Us'
 sub_title = 'About'
 +++
@@ -8,10 +7,10 @@ sub_title = 'About'
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-4">
-				<h2 class="title-color">Personal care for your healthy living</h2>
+				<h2 class="title-color">We provide printing and gifting solutions</h2>
 			</div>
 			<div class="col-lg-8">
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, quod laborum alias. Vitae dolorum, officia sit! Saepe ullam facere at, consequatur incidunt, quae esse, quis ut reprehenderit dignissimos, libero delectus.</p>
+				<p>We provide any flat surface printing services however we have varities of printing job like photo framing, Jumbo printing, digial canvas, visiting card etc.</p>
 				<img src="/images/about/sign.png" alt="" class="img-fluid">
 			</div>
 		</div>
@@ -22,30 +21,44 @@ sub_title = 'About'
 		<div class="row">
 			<div class="col-lg-3 col-md-6">
 				<div class="about-block-item mb-5 mb-lg-0">
-					<img src="/images/about/about-1.jpg" alt="" class="img-fluid w-100">
-					<h4 class="mt-3">Healthcare for Kids</h4>
-					<p>Voluptate aperiam esse possimus maxime repellendus, nihil quod accusantium .</p>
+					<img src="/images/service/screen-printing-service.jpg" alt="" class="img-fluid w-100">
+					<h4 class="mt-3">Screen Printing</h4>
+					<p>Any flat surface screen printing done here with care.Creating art pieces is our passion. We believe the walls around us decorated with paintings and artworks speak of our character and life.</p>
 				</div>
 			</div>
 			<div class="col-lg-3 col-md-6">
 				<div class="about-block-item mb-5 mb-lg-0">
-					<img src="/images/about/about-2.jpg" alt="" class="img-fluid w-100">
-					<h4 class="mt-3">Medical Counseling</h4>
-					<p>Voluptate aperiam esse possimus maxime repellendus, nihil quod accusantium .</p>
+					<img src="/images/service/bag-printing-service.jpg" alt="" class="img-fluid w-100">
+					<h4 class="mt-3">Non-Woven Bag Printing</h4>
+					<p>We do personalized Non-Woven bag printing</p>
 				</div>
 			</div>
 			<div class="col-lg-3 col-md-6">
 				<div class="about-block-item mb-5 mb-lg-0">
-					<img src="/images/about/about-3.jpg" alt="" class="img-fluid w-100">
-					<h4 class="mt-3">Modern Equipments</h4>
-					<p>Voluptate aperiam esse possimus maxime repellendus, nihil quod accusantium .</p>
+					<img src="/images/service/photo-framing-service.jpg" alt="" class="img-fluid w-100">
+					<h4 class="mt-3">Photo Framing</h4>
+					<p>We do create wide range of decorative photo frames.</p>
 				</div>
 			</div>
 			<div class="col-lg-3 col-md-6">
 				<div class="about-block-item">
-					<img src="/images/about/about-4.jpg" alt="" class="img-fluid w-100">
-					<h4 class="mt-3">Qualified Doctors</h4>
-					<p>Voluptate aperiam esse possimus maxime repellendus, nihil quod accusantium .</p>
+					<img src="/images/service/tshirt-printing.jpg" alt="" class="img-fluid w-100">
+					<h4 class="mt-3">Tshirt Printing</h4>
+					<p>We do personalized T-Shirt printing for any design.</p>
+				</div>
+			</div>
+			<div class="col-lg-3 col-md-6">
+				<div class="about-block-item">
+					<img src="/images/service/corporate-printing-services.jpg" alt="" class="img-fluid w-100">
+					<h4 class="mt-3">Corporate Printing</h4>
+					<p>We provide corporate printing like brochure, visiting card, ID Cards, badges etc.</p>
+				</div>
+			</div>
+			<div class="col-lg-3 col-md-6">
+				<div class="about-block-item">
+					<img src="/images/service/gifting-service.jpg" alt="" class="img-fluid w-100">
+					<h4 class="mt-3">Gifts</h4>
+					<p>You can personalized gift for any occations.</p>
 				</div>
 			</div>
 		</div>
@@ -66,51 +79,43 @@ sub_title = 'About'
 				<div class="testimonial-block">
 					<div class="client-info ">
 						<h4>Amazing service!</h4>
-						<span>John Partho</span>
+						<span>Ajijur Middya</span>
 					</div>
 					<p>
-						They provide great service facilty consectetur adipisicing elit. Itaque rem, praesentium, iure, ipsum magnam deleniti a vel eos adipisci suscipit fugit placeat. Quibusdam laboriosam eveniet nostrum nemo commodi numquam quod.
+						They provide great service facilty.
 					</p>
 					<i class="icofont-quote-right"></i>
 				</div>
 				<div class="testimonial-block">
 					<div class="client-info">
-						<h4>Expert doctors!</h4>
-						<span>Mullar Sarth</span>
+						<h4>Very Good</h4>
+						<span>Aritra Seth</span>
 					</div>
-					<p>
-						They provide great service facilty consectetur adipisicing elit. Itaque rem, praesentium, iure, ipsum magnam deleniti a vel eos adipisci suscipit fugit placeat. Quibusdam laboriosam eveniet nostrum nemo commodi numquam quod.
-					</p>
+					<p>Product looks very good with affordable price.</p>
 					<i class="icofont-quote-right"></i>
 				</div>
 				<div class="testimonial-block">
 					<div class="client-info">
-						<h4>Good Support!</h4>
-						<span>Kolis Mullar</span>
+						<h4>Good Canvas</h4>
+						<span>Santanu Konar</span>
 					</div>
-					<p>
-						They provide great service facilty consectetur adipisicing elit. Itaque rem, praesentium, iure, ipsum magnam deleniti a vel eos adipisci suscipit fugit placeat. Quibusdam laboriosam eveniet nostrum nemo commodi numquam quod.
-					</p>
+					<p>I like canvas frame. keep it up.</p>
 					<i class="icofont-quote-right"></i>
 				</div>
 				<div class="testimonial-block">
 					<div class="client-info">
-						<h4>Nice Environment!</h4>
-						<span>Partho Sarothi</span>
+						<h4>Nice Work!</h4>
+						<span>Deep Majumder</span>
 					</div>
-					<p>
-						They provide great service facilty consectetur adipisicing elit. Itaque rem, praesentium, iure, ipsum magnam deleniti a vel eos adipisci suscipit fugit placeat. Quibusdam laboriosam eveniet nostrum nemo commodi numquam quod.
-					</p>
+					<p>Nice work and good quality.</p>
 					<i class="icofont-quote-right"></i>
 				</div>
 				<div class="testimonial-block">
 					<div class="client-info">
-						<h4>Modern Service!</h4>
-						<span>Kolis Mullar</span>
+						<h4>Frames are good</h4>
+						<span>Mahan Dutta</span>
 					</div>
-					<p>
-						They provide great service facilty consectetur adipisicing elit. Itaque rem, praesentium, iure, ipsum magnam deleniti a vel eos adipisci suscipit fugit placeat. Quibusdam laboriosam eveniet nostrum nemo commodi numquam quod.
-					</p>
+					<p>Frames are good and within affordable price.</p>
 					<i class="icofont-quote-right"></i>
 				</div>
 			</div>

@@ -1,6 +1,5 @@
 +++
 date = '2024-10-27T23:14:36+05:30'
-draft = true
 title = 'Our Services'
 sub_title = 'Services'
 +++
